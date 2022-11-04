@@ -21,12 +21,14 @@ This project was as exercise in:
 
 #### Showcase
 The program on start-up
+
 ![Shingles_init](https://user-images.githubusercontent.com/47574921/200082593-e445dad8-35dc-4359-9cea-0f959ebf867d.jpg)
 
 ---
 1. Input text and text title for both inputs
 2. Select the Shingles value (1-4) 
 3. Click Start
+
 ![shingles_home](https://user-images.githubusercontent.com/47574921/200082634-b0bf98dd-074e-46d0-8ff1-458475ed3863.jpg)
 
 ---
